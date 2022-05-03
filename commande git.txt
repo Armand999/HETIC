@@ -1,0 +1,13 @@
+echo "# HETIC" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Armand999/HETIC.git
+git push -u origin main
+
+git remote add origin https://github.com/Armand999/HETIC.git
+git branch -M main
+git push -u origin main
+
+https://exam.qualify.talentplatform.eu/start/kb51dd21178twv7
